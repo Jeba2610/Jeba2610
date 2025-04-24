@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a passionate and motivated data analyst with over 3 ye
 ---
 
 ### **My Projects**
-- **Hotel Management Dashboard**  
+- **Pizza Sales Dashboard**  
   Analyze occupancy, customer satisfaction, and revenue metrics  
   *Tools:* Power BI, SQL, DAX
 
